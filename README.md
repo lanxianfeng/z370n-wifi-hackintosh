@@ -1,5 +1,8 @@
 [TOC]
 
+原文地址 https://github.com/qinkangdeid/z370n-wifi-hackintosh
+复制过来只是为了查看方便！！！尊重原作者辛劳
+
 # z370n-wifi-hackintosh
 
 技嘉主板（ Z370N-WIFI） 黑苹果EFI文件
